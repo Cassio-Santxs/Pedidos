@@ -62,3 +62,6 @@ C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\o
 C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\obj\Debug\net9.0\PedidoApi.pdb
 C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\obj\Debug\net9.0\PedidoApi.genruntimeconfig.cache
 C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\obj\Debug\net9.0\ref\PedidoApi.dll
+C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\bin\Debug\net9.0\global.json
+C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\obj\Debug\net9.0\PedidoApi.sourcelink.json
+C:\Users\cassi\OneDrive\Área de Trabalho\Faculdade\PedidosFaculdade\PedidoApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
